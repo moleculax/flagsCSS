@@ -1,0 +1,119 @@
+/* Estilo base para todas las banderas */
+.flag {
+  display: inline-block;
+  width: 40px;
+  height: 30px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+
+/* Banderas por país */
+
+.flag-ad { background-image: url('flags/ad.png'); } /* Andorra */
+.flag-ae { background-image: url('flags/ae.png'); } /* Emiratos Árabes Unidos */
+.flag-af { background-image: url('flags/af.png'); } /* Afganistán */
+.flag-ag { background-image: url('flags/ag.png'); } /* Antigua y Barbuda */
+.flag-ai { background-image: url('flags/ai.png'); } /* Anguila */
+.flag-al { background-image: url('flags/al.png'); } /* Albania */
+.flag-am { background-image: url('flags/am.png'); } /* Armenia */
+.flag-ao { background-image: url('flags/ao.png'); } /* Angola */
+.flag-ar { background-image: url('flags/ar.png'); } /* Argentina */
+.flag-as { background-image: url('flags/as.png'); } /* Samoa Americana */
+.flag-at { background-image: url('flags/at.png'); } /* Austria */
+.flag-au { background-image: url('flags/au.png'); } /* Australia */
+.flag-aw { background-image: url('flags/aw.png'); } /* Aruba */
+.flag-az { background-image: url('flags/az.png'); } /* Azerbaiyán */
+.flag-ba { background-image: url('flags/ba.png'); } /* Bosnia y Herzegovina */
+.flag-bb { background-image: url('flags/bb.png'); } /* Barbados */
+.flag-bd { background-image: url('flags/bd.png'); } /* Bangladés */
+.flag-be { background-image: url('flags/be.png'); } /* Bélgica */
+.flag-bf { background-image: url('flags/bf.png'); } /* Burkina Faso */
+.flag-bg { background-image: url('flags/bg.png'); } /* Bulgaria */
+.flag-bh { background-image: url('flags/bh.png'); } /* Baréin */
+.flag-bi { background-image: url('flags/bi.png'); } /* Burundi */
+.flag-bj { background-image: url('flags/bj.png'); } /* Benín */
+.flag-bm { background-image: url('flags/bm.png'); } /* Bermudas */
+.flag-bn { background-image: url('flags/bn.png'); } /* Brunéi */
+.flag-bo { background-image: url('flags/bo.png'); } /* Bolivia */
+.flag-br { background-image: url('flags/br.png'); } /* Brasil */
+.flag-bs { background-image: url('flags/bs.png'); } /* Bahamas */
+.flag-bt { background-image: url('flags/bt.png'); } /* Bután */
+.flag-bw { background-image: url('flags/bw.png'); } /* Botsuana */
+.flag-by { background-image: url('flags/by.png'); } /* Bielorrusia */
+.flag-bz { background-image: url('flags/bz.png'); } /* Belice */
+.flag-ca { background-image: url('flags/ca.png'); } /* Canadá */
+.flag-cd { background-image: url('flags/cd.png'); } /* República Democrática del Congo */
+.flag-cf { background-image: url('flags/cf.png'); } /* República Centroafricana */
+.flag-cg { background-image: url('flags/cg.png'); } /* Congo */
+.flag-ch { background-image: url('flags/ch.png'); } /* Suiza */
+.flag-ci { background-image: url('flags/ci.png'); } /* Costa de Marfil */
+.flag-cl { background-image: url('flags/cl.png'); } /* Chile */
+.flag-cm { background-image: url('flags/cm.png'); } /* Camerún */
+.flag-cn { background-image: url('flags/cn.png'); } /* China */
+.flag-co { background-image: url('flags/co.png'); } /* Colombia */
+.flag-cr { background-image: url('flags/cr.png'); } /* Costa Rica */
+.flag-cu { background-image: url('flags/cu.png'); } /* Cuba */
+.flag-cv { background-image: url('flags/cv.png'); } /* Cabo Verde */
+.flag-cy { background-image: url('flags/cy.png'); } /* Chipre */
+.flag-cz { background-image: url('flags/cz.png'); } /* Chequia */
+.flag-de { background-image: url('flags/de.png'); } /* Alemania */
+.flag-dj { background-image: url('flags/dj.png'); } /* Yibuti */
+.flag-dk { background-image: url('flags/dk.png'); } /* Dinamarca */
+.flag-dm { background-image: url('flags/dm.png'); } /* Dominica */
+.flag-do { background-image: url('flags/do.png'); } /* República Dominicana */
+.flag-dz { background-image: url('flags/dz.png'); } /* Argelia */
+.flag-ec { background-image: url('flags/ec.png'); } /* Ecuador */
+.flag-ee { background-image: url('flags/ee.png'); } /* Estonia */
+.flag-eg { background-image: url('flags/eg.png'); } /* Egipto */
+.flag-er { background-image: url('flags/er.png'); } /* Eritrea */
+.flag-es { background-image: url('flags/es.png'); } /* España */
+.flag-et { background-image: url('flags/et.png'); } /* Etiopía */
+.flag-fi { background-image: url('flags/fi.png'); } /* Finlandia */
+.flag-fj { background-image: url('flags/fj.png'); } /* Fiyi */
+.flag-fm { background-image: url('flags/fm.png'); } /* Micronesia */
+.flag-fr { background-image: url('flags/fr.png'); } /* Francia */
+.flag-ga { background-image: url('flags/ga.png'); } /* Gabón */
+.flag-gb { background-image: url('flags/gb.png'); } /* Reino Unido */
+.flag-gd { background-image: url('flags/gd.png'); } /* Granada */
+.flag-ge { background-image: url('flags/ge.png'); } /* Georgia */
+.flag-gh { background-image: url('flags/gh.png'); } /* Ghana */
+.flag-gi { background-image: url('flags/gi.png'); } /* Gibraltar */
+.flag-gl { background-image: url('flags/gl.png'); } /* Groenlandia */
+.flag-gm { background-image: url('flags/gm.png'); } /* Gambia */
+.flag-gn { background-image: url('flags/gn.png'); } /* Guinea */
+.flag-gq { background-image: url('flags/gq.png'); } /* Guinea Ecuatorial */
+.flag-gr { background-image: url('flags/gr.png'); } /* Grecia */
+.flag-gt { background-image: url('flags/gt.png'); } /* Guatemala */
+.flag-gu { background-image: url('flags/gu.png'); } /* Guam */
+.flag-gy { background-image: url('flags/gy.png'); } /* Guyana */
+.flag-hk { background-image: url('flags/hk.png'); } /* Hong Kong */
+.flag-hn { background-image: url('flags/hn.png'); } /* Honduras */
+.flag-hr { background-image: url('flags/hr.png'); } /* Croacia */
+.flag-ht { background-image: url('flags/ht.png'); } /* Haití */
+.flag-hu { background-image: url('flags/hu.png'); } /* Hungría */
+.flag-id { background-image: url('flags/id.png'); } /* Indonesia */
+.flag-ie { background-image: url('flags/ie.png'); } /* Irlanda */
+.flag-il { background-image: url('flags/il.png'); } /* Israel */
+.flag-in { background-image: url('flags/in.png'); } /* India */
+.flag-iq { background-image: url('flags/iq.png'); } /* Irak */
+.flag-ir { background-image: url('flags/ir.png'); } /* Irán */
+.flag-is { background-image: url('flags/is.png'); } /* Islandia */
+.flag-it { background-image: url('flags/it.png'); } /* Italia */
+.flag-jm { background-image: url('flags/jm.png'); } /* Jamaica */
+.flag-jo { background-image: url('flags/jo.png'); } /* Jordania */
+.flag-jp { background-image: url('flags/jp.png'); } /* Japón */
+.flag-ke { background-image: url('flags/ke.png'); } /* Kenia */
+.flag-kg { background-image: url('flags/kg.png'); } /* Kirguistán */
+.flag-kh { background-image: url('flags/kh.png'); } /* Camboya */
+.flag-ki { background-image: url('flags/ki.png'); } /* Kiribati */
+.flag-km { background-image: url('flags/km.png'); } /* Comoras */
+.flag-kn { background-image: url('flags/kn.png'); } /* San Cristóbal y Nieves */
+.flag-kp { background-image: url('flags/kp.png'); } /* Corea del Norte */
+.flag-kr { background-image: url('flags/kr.png'); } /* Corea del Sur */
+.flag-kw { background-image: url('flags/kw.png'); } /* Kuwait */
+.flag-kz { background-image: url('flags/kz.png'); } /* Kazajistán */
+.flag-la { background-image: url('flags/la.png'); } /* Laos */
