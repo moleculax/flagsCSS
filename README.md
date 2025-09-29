@@ -1,8 +1,8 @@
 # Flags CSS
 
 # Style de Banderas para usar
- @autor Moleculax 
-Emilio J. Gomez
+@autor Moleculax 
+
 
 <img src="flags/ar.png" alt="Bandera de Argentina" width="100">
 <img src="flags/ve.png" alt="Bandera de Venezuela" width="100">
@@ -16,7 +16,7 @@ Emilio J. Gomez
 # - CSS
 # - JSON
 
-
+``` LI
 <li class="flag flag-ad" title="Andorra"></li>
 <li class="flag flag-ae" title="Emiratos Árabes Unidos"></li>
 <li class="flag flag-af" title="Afganistán"></li>
@@ -121,3 +121,6 @@ Emilio J. Gomez
 <li class="flag flag-kw" title="Kuwait"></li>
 <li class="flag flag-kz" title="Kazajistán"></li>
 <li class="flag flag-la" title="Laos"></li>
+```
+
+[Otras Banderas](https://www.banderas-mundo.es/)
