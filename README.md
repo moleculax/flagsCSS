@@ -123,4 +123,4 @@
 <li class="flag flag-la" title="Laos"></li>
 ```
 
-[Otras Banderas](https://www.banderas-mundo.es/)
+[Otras Banderas](https://flagcdn.com/80x60.zip)
