@@ -1,11 +1,15 @@
 # Flags CSS
 
 # Style de Banderas para usar
-@autor Moleculax 
 
 
-<img src="flags/ar.png" alt="Bandera de Argentina" width="100">
-<img src="flags/ve.png" alt="Bandera de Venezuela" width="100">
+
+
+
+![CSS](https://img.shields.io/badge/CSS-Script-blue?logo=css&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-Script-red?logo=html&logoColor=white)
+![moleculax](https://img.shields.io/badge/Author-Moleculax-blue?logo=author&logoColor=white)
+
 
 ## Como usar:
 ```html
